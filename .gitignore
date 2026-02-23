@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large files / Data
+*.log
+*.csv
+*.json
+# (Exclude specific data files if they are huge)
+
+# IDE Settings
+.vscode/
+.idea/
+.streamlit/
