@@ -22,3 +22,6 @@ Thumbs.db
 .vscode/
 .idea/
 .streamlit/
+.env
+.streamlit/
+venv/
